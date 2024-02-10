@@ -1,1 +1,2 @@
 # Phishing-attacks
+Phishing attacks are a type of cyber attack where malicious actors attempt to trick individuals into revealing sensitive information, such as login credentials, personal information, or financial details. These attacks typically involve sending fraudulent emails, text messages, or other forms of communication that appear to be from legitimate sources, such as banks, social media platforms, or reputable organizations.
